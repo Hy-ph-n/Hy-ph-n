@@ -12,6 +12,11 @@
 
 I am a college student majoring in computer science with a particular focus upon learning new programming languages and expanding my skills in languages I know. I am interested in technology as a career, and want to spend time becoming more experienced as a programmer. I'm currently learning how to properly document Java programs, as well as when it is appropriate to use threads. In addition to programming languages I know, I am familiar with Visual Studio, Visual Studio Code, Netbeans, SQLite, MySQL, and have even wrote various little programs or program lines in Notepad++.
 
+## Previous Work
+<p align="center"><img width=50% src="https://github.com/Hy-ph-n/Hy-ph-n/blob/main/Creating%20a%20Website.png"></p>
+<p align="center"><img width=50% src="https://github.com/Hy-ph-n/Hy-ph-n/blob/main/Using%20a%20GeoCoder.png"></p>
+<p align="center"><img width=50% src="https://github.com/Hy-ph-n/Hy-ph-n/blob/main/Goblin%20Adventure.gif"></p>
+
 <!--
 **Hy-ph-n/Hy-ph-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
