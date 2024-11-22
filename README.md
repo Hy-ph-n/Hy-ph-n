@@ -12,7 +12,7 @@
 
 I am a college student majoring in computer science with a particular focus upon learning new programming languages and expanding my skills in languages I know. I am interested in technology as a career, and want to spend time becoming more experienced as a programmer. In addition to programming languages I know, I am familiar with Visual Studio, Visual Studio Code, Netbeans, SQLite, MySQL, and have even wrote various little programs or program lines in Notepad++.
 
-<img width=50% align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hy-ph-n&theme=vision-friendly-dark">
+<img width=50% align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hy-ph-n&theme=vision-friendly-dark&langs_count=8&size_weight=0.5&count_weight=0.5">
 
 I'm currently learning how to properly document Java programs, as well as when it is appropriate to use threads. I'm also in the process of learning markdown and how to create documentation in Github, you're reading my efforts right now in fact! I look forward to becoming a more competent and inventive programmer, and see every bug as a chance to improve my code. I plan to pursue a job that will make use of my aquired skills and advance that into a long career. Learning doesn't end in the classroom, so even when I'm finished with my studies I want to keep expanding my skillset as this will aid me in my career goals and make me more knowledgable. I've included statistics of what I've been working on, as well as examples of my previous work down below. I hope to see these sections become more expansive as I create new, more advanced programs.
 
