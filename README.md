@@ -25,12 +25,18 @@ I hope to see these sections become more expansive as I create new, more advance
 I've included statistics of what I've been working on, as well as examples of my previous work down below.
 
 ## Previous Work
-My
-<p align="center"><img width=50% src="https://github.com/Hy-ph-n/Hy-ph-n/blob/main/Creating%20a%20Website.png"></p>
-Ah
+<p align="center">A quiz covering a clip from the 2009 'The Batman' cartoon.</p>
 <p align="center"><img width=50% src="https://github.com/Hy-ph-n/Hy-ph-n/blob/main/The%20Batman%20Quiz.png"></p>
-Hn
+
+<p align="center">During Goblin Adventure, the player hunts for treasure while dodging dangers.</p>
 <p align="center"><img width=50% src="https://github.com/Hy-ph-n/Hy-ph-n/blob/main/Goblin%20Adventure.gif"></p>
+
+<p align="center">Inside Geo-Geniuses, users are able to purchase from an inventory of stones and gemstones.</p>
+<p align="center"><img width=50% src="https://github.com/Hy-ph-n/Hy-ph-n/blob/main/Geo%20Geniuses.png"></p>
+
+## Pages
+<p align="center"><a src="https://hy-ph-n.github.io/">You can see my projects in greater detail here.</a></p>
+<p align="center"><img width=50% src="https://github.com/Hy-ph-n/Hy-ph-n/blob/main/Page.png"></p>
 
 <!--
 **Hy-ph-n/Hy-ph-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
