@@ -35,7 +35,7 @@ I've included statistics of what I've been working on, as well as examples of my
 <p align="center"><img width=50% src="https://github.com/Hy-ph-n/Hy-ph-n/blob/main/Geo%20Geniuses.png"></p>
 
 ## Pages
-<p align="center"><a src="https://hy-ph-n.github.io/">You can see my projects in greater detail here.</a></p>
+<p align="center"><a href="https://hy-ph-n.github.io/">You can see my projects in greater detail here.</a></p>
 <p align="center"><img width=50% src="https://github.com/Hy-ph-n/Hy-ph-n/blob/main/Page.png"></p>
 
 <!--
